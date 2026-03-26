@@ -1,5 +1,5 @@
 streamlit
-groq==0.4.1
+groq==0.3.2
 langchain
 langchain-community
 faiss-cpu
